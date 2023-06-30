@@ -7,7 +7,7 @@ package com.practise;
 public class App 
 {
 	private String s;
-	System.out.println("test");
+	System.out.println("test 1");
 	public void setS(String s) {
 		this.s = s;
 	}
